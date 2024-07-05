@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -42,7 +41,7 @@
   <h2>Contact Us</h2>
   <p>If you have any questions or would like to schedule an appointment, please contact us:</p>
   <p>Email: trc.for.everyone.in.life@gmail.com</p>
-  <p>Phone: +81 80 8025 1966</p>
+  <p>Phone:<strong> +81 80 8025 1966 </strong></p>
 </section>
 
 <section class="container">
@@ -54,24 +53,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Booking Form</title>
 </head>
-<body>
-    <h2>Booking Form</h2>
-    <form action="send_email.php" method="POST">
-        <label for="name">Your Name:</label><br>
-        <input type="text" id="name" name="name" required><br><br>
-        <label for="email">Your Email:</label><br>
-        <input type="email" id="email" name="email" required><br><br>
-        <label for="phone">Phone Number:</label><br>
-        <input type="tel" id="phone" name="phone" required><br><br>
-        <label for="message">Message:</label><br>
-        
-        
-  
-
  <footer>
-        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+        <p>&copy; 2024 TRC. All rights reserved.</p>
     </footer>
 </body>
 </html>
