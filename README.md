@@ -5,9 +5,9 @@
 </html>
 
 
-<h2 style="color:white;"></h2>
+<h2 style="color:yellow;"></h2>
 
-<p style="color:white;"></p>
+<p style="color:yellow;"></p>
   <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
