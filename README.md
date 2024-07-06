@@ -3,8 +3,6 @@
 <body style="background-color:black;">
 </body>
 </html>
-
-
 <h2 style="color:yellow;"></h2>
 
 <p style="color:yellow;"></p>
