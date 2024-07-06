@@ -3,7 +3,6 @@
 <body style="background-color:white;">
 </body>
 </html>
-<h2 style="color:yellow;"></h2>
 <p style="color:yellow;"></p>
   <head>
   <meta charset="UTF-8">
