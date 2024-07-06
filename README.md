@@ -1,9 +1,20 @@
 <html lang="en">
-<head>
+<html>
+<body style="background-color:black;">
+</body>
+</html>
+
+
+<h2 style="color:white;"></h2>
+
+<p style="color:white;"></p>
+  <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+</body>
+</html>
 
 <header>
   <h1>TRC: Therapy for Kids Ages 6-13</h1>
@@ -49,7 +60,6 @@
 <html lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
  <footer>
         <p>&copy; 2024 TRC. All rights reserved.</p>
     </footer>
